@@ -10,7 +10,7 @@ Old and obscure file formats are appreciated
 
 ## File Requirements
 
-1. Must be created by submitor, or submitor has permissions to submit/make-public from the file creator.
+1. Must be created by submitter, or submitter has permissions to submit/make-public from the file creator.
 2. Must not have malicious content. Content will be considered malicious if any of the following are met:
     * The file contains code/script that is not intended by the file format. (e.g. adding scripts or shellcode in the comments or whitespace, etc)
     * The file contains code/script that is indended by the file format, but it calls or executes other code. (e.g. having a DOC with a macro is ok as long as it doesn't fetch and run something else).
